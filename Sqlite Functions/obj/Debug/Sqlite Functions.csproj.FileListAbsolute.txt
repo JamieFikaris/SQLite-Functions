@@ -1,0 +1,14 @@
+c:\users\jamie pc\documents\visual studio 2015\Projects\Sqlite Functions\Sqlite Functions\bin\Debug\Sqlite Functions.dll.config
+c:\users\jamie pc\documents\visual studio 2015\Projects\Sqlite Functions\Sqlite Functions\bin\Debug\Sqlite Functions.dll
+c:\users\jamie pc\documents\visual studio 2015\Projects\Sqlite Functions\Sqlite Functions\bin\Debug\Sqlite Functions.pdb
+c:\users\jamie pc\documents\visual studio 2015\Projects\Sqlite Functions\Sqlite Functions\obj\Debug\Sqlite Functions.dll
+c:\users\jamie pc\documents\visual studio 2015\Projects\Sqlite Functions\Sqlite Functions\obj\Debug\Sqlite Functions.pdb
+c:\users\jamie pc\documents\visual studio 2015\Projects\Sqlite Functions\Sqlite Functions\bin\Debug\EntityFramework.dll
+c:\users\jamie pc\documents\visual studio 2015\Projects\Sqlite Functions\Sqlite Functions\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jamie pc\documents\visual studio 2015\Projects\Sqlite Functions\Sqlite Functions\bin\Debug\System.Data.SQLite.dll
+c:\users\jamie pc\documents\visual studio 2015\Projects\Sqlite Functions\Sqlite Functions\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\jamie pc\documents\visual studio 2015\Projects\Sqlite Functions\Sqlite Functions\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\jamie pc\documents\visual studio 2015\Projects\Sqlite Functions\Sqlite Functions\bin\Debug\EntityFramework.xml
+c:\users\jamie pc\documents\visual studio 2015\Projects\Sqlite Functions\Sqlite Functions\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jamie pc\documents\visual studio 2015\Projects\Sqlite Functions\Sqlite Functions\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jamie PC\Documents\Visual Studio 2015\Projects\Sqlite Functions\Sqlite Functions\obj\Debug\Sqlite Functions.csprojResolveAssemblyReference.cache
